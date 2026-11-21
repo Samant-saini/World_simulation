@@ -9,15 +9,13 @@ It's a small world that keeps moving even when you're just watching!
 
 
 ## 📸 A little look inside our world
-
-### 🌞 The village during the day
+### 🌙 When night falls
 ![Daytime Village](https://github.com/Samant-saini/World_simulation/blob/main/Screenshot%20From%202026-11-21%2010-06-49.png)
 
-### 🌙 When night falls
-![Night Village](screenshots/village-night.png)
+### 🌞 The village during the day
+![Night Village](https://github.com/Samant-saini/World_simulation/blob/main/Screenshot%20From%202026-11-21%2010-06-58.png)
 
-### 🦊 Unexpected village adventures
-![Village Adventures](screenshots/village-adventure.png)
+
 ## 🌞 What's happening in the village?
 
 - 🐑 Wool the sheep spends time grazing in the meadow.
