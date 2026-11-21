@@ -6,6 +6,18 @@ Welcome to my little pixel-art village, where animals and villagers have their o
 
 It's a small world that keeps moving even when you're just watching!
 
+
+
+## 📸 A little look inside our world
+
+### 🌞 The village during the day
+![Daytime Village]()
+
+### 🌙 When night falls
+![Night Village](screenshots/village-night.png)
+
+### 🦊 Unexpected village adventures
+![Village Adventures](screenshots/village-adventure.png)
 ## 🌞 What's happening in the village?
 
 - 🐑 Wool the sheep spends time grazing in the meadow.
